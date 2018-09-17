@@ -1,0 +1,8 @@
+sources:
+  - ./SourceryTest
+templates:
+  - ./Templates
+output:
+  ./SwiftMocking
+args:
+  testable: SourceryTest
